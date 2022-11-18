@@ -1,0 +1,4 @@
+name: Post welcome comment2
+on:
+  pull_request:
+    types: [opened]
